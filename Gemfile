@@ -40,6 +40,7 @@ gem 'gravatar_image_tag', '~> 1.2'
 gem 'carrierwave', '~> 2.1'
 # Manipulate images with minimal use of memory via ImageMagick / GraphicsMagick
 gem 'mini_magick', '~> 4.10', '>= 4.10.1'
+gem 'coffee-rails', '~> 5.0'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
